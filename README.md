@@ -1,18 +1,176 @@
-# 💫 About Me:
-Hi there! I'm Taniki Bala Aditya, a passionate Full Stack Web Developer and tech enthusiast who loves building clean, scalable web applications. My main stack is MERN (MongoDB, Express.js, React.js, Node.js), and I enjoy combining beautiful frontends with powerful backends.
+# Hey there! I'm Taniki Bala Aditya 👋
 
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Clean+Code+Advocate;Always+Learning+New+Tech" alt="Typing SVG" />
+</div>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Inst)](https://www.instagram.com/bala_aditya/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/taniki-bala-aditya/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.taninki@gmail.com) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Balaaditya04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Balaaditya04&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Balaaditya04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Balaaditya04&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Balaaditya04&label=Profile%20Views&color=36BCF7&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Balaaditya04?label=Followers&style=flat-square&color=36BCF7" alt="Followers" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Balaaditya04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+> *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+
+I'm a passionate **Full Stack Developer** who turns coffee into code and ideas into reality! 💻✨
+
+- 🔭 Currently working on **exciting web applications** that solve real-world problems
+- 🌱 Always learning and exploring **new technologies** and **best practices**
+- 👯 Looking to collaborate on **open source projects** and **innovative startups**
+- 💬 Ask me about **React, Node.js, MongoDB,** or anything **web development**
+- ⚡ Fun fact: I debug with `console.log()` and I'm not ashamed of it! 😄
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🎯 Core Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,html,css" alt="Core Tech" />
+</div>
+
+### ⚙️ Tools & Platforms
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,figma,postman,npm" alt="Tools" />
+</div>
+
+### 🎨 Frontend Magic
+```javascript
+const frontendSkills = {
+  frameworks: ['React.js', 'Next.js'],
+  styling: ['CSS3', 'Tailwind CSS', 'Bootstrap', 'Styled Components'],
+  stateManagement: ['Redux', 'Context API', 'Zustand'],
+  buildTools: ['Vite', 'Webpack', 'Parcel']
+};
+```
+
+### 🔧 Backend Power
+```javascript
+const backendSkills = {
+  runtime: ['Node.js'],
+  frameworks: ['Express.js', 'Fastify'],
+  databases: ['MongoDB', 'PostgreSQL', 'Redis'],
+  authentication: ['JWT', 'OAuth', 'Passport.js'],
+  apis: ['REST', 'GraphQL']
+};
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Balaaditya04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=36BCF7&icon_color=36BCF7&text_color=c9d1d9"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Balaaditya04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Balaaditya04&theme=tokyonight&hide_border=true&background=0D1117&stroke=36BCF7&ring=36BCF7&fire=36BCF7&currStreakLabel=36BCF7" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Balaaditya04&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=36BCF7&line=36BCF7&point=FFFFFF" alt="Activity Graph" />
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Balaaditya04&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 💼 What I'm Working On
+
+```javascript
+const currentFocus = {
+  learning: ['TypeScript', 'Next.js', 'Docker', 'AWS'],
+  building: ['E-commerce Platform', 'Task Management App'],
+  reading: ['Clean Code', 'System Design Interviews'],
+  goals2025: ['Contribute to Open Source', 'Build SaaS Product', 'Master DevOps']
+};
+```
+
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/Balaaditya04/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Project 1" />
+  </a>
+  <a href="https://github.com/Balaaditya04/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Project 2" />
+  </a>
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/taniki-bala-aditya/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aditya.taninki@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/bala_aditya/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</div>
+
+---
+
+## 💭 Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</div>
+
+---
+
+## 🎵 Coding Soundtrack
+
+```javascript
+const codingPlaylist = {
+  focus: ['Lo-fi Hip Hop', 'Ambient Electronic'],
+  debugging: ['Coffee Shop Jazz', 'Rain Sounds'],
+  breakthrough: ['Upbeat Electronic', 'Rock Anthems'],
+  deployment: ['Victory Music', 'Celebration Songs']
+};
+```
+
+---
+
+## 📊 Weekly Development Breakdown
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░  45.2%
+React        8 hrs 15 mins   ███████░░░░░░░░░░  29.8%
+CSS          3 hrs 45 mins   ███░░░░░░░░░░░░░░  13.6%
+HTML         2 hrs 10 mins   ██░░░░░░░░░░░░░░░   7.8%
+Other        1 hr            ░░░░░░░░░░░░░░░░░   3.6%
+```
+<!--END_SECTION:waka-->
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontAlignY=75&desc=Let's%20build%20something%20amazing%20together&descAlignY=55&descAlign=50" alt="Footer" />
+</div>
+
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg" alt="Ctrl+C Ctrl+V" />
+</div>
