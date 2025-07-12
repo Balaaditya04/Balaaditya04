@@ -47,7 +47,6 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 
 **🚀 Frameworks**
 - React.js
-- Next.js
 
 </td>
 <td>
@@ -64,7 +63,6 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 **🗃️ State Management**
 - Redux
 - Context API
-- Zustand
 
 </td>
 <td>
@@ -99,7 +97,6 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 **🗄️ Databases**
 - MongoDB
 - PostgreSQL
-- Redis
 
 </td>
 <td>
@@ -107,14 +104,12 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 **🔐 Authentication**
 - JWT
 - OAuth
-- Passport.js
 
 </td>
 <td>
 
 **🌐 APIs**
 - REST
-- GraphQL
 
 </td>
 </tr>
@@ -155,13 +150,8 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 
 ### 📚 Currently Learning
 - 🔷 **TypeScript** - Adding type safety to JavaScript
-- ⚡ **Next.js** - Full-stack React framework
 - 🐳 **Docker** - Containerization & deployment
 - ☁️ **AWS** - Cloud computing services
-
-### 🏗️ Building Projects
-- 🛒 **E-commerce Platform** - Full-stack shopping solution
-- ✅ **Task Management App** - Productivity tool with real-time updates
 
 </td>
 <td width="50%">
@@ -173,7 +163,6 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 ### 🎯 Goals 2025
 - 🤝 **Contribute to Open Source** - Give back to the community
 - 💼 **Build SaaS Product** - Create a profitable software service
-- 🚀 **Master DevOps** - Complete CI/CD expertise
 
 </td>
 </tr>
