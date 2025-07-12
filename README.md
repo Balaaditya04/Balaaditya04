@@ -181,11 +181,11 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/Balaaditya04/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=project1&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Project 1" />
+  <a href="https://github.com/Balaaditya04/CryptoSense">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=CryptoSense&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="CryptoSense" />
   </a>
-  <a href="https://github.com/Balaaditya04/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=project2&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Project 2" />
+  <a href="https://github.com/Balaaditya04/Memory-Master-Challenge">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Balaaditya04&repo=Memory-Master-Challenge&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=36BCF7&text_color=c9d1d9" alt="Memory Master Challenge" />
   </a>
 </div>
 
