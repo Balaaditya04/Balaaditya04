@@ -38,25 +38,84 @@ I'm a passionate **Full Stack Developer** who turns coffee into code and ideas i
 </div>
 
 ### 🎨 Frontend Magic
-```javascript
-const frontendSkills = {
-  frameworks: ['React.js', 'Next.js'],
-  styling: ['CSS3', 'Tailwind CSS', 'Bootstrap', 'Styled Components'],
-  stateManagement: ['Redux', 'Context API', 'Zustand'],
-  buildTools: ['Vite', 'Webpack', 'Parcel']
-};
-```
+<table>
+<tr>
+<td>
+
+**🚀 Frameworks**
+- React.js
+- Next.js
+
+</td>
+<td>
+
+**🎨 Styling**
+- CSS3
+- Tailwind CSS
+- Bootstrap
+- Styled Components
+
+</td>
+<td>
+
+**🗃️ State Management**
+- Redux
+- Context API
+- Zustand
+
+</td>
+<td>
+
+**⚡ Build Tools**
+- Vite
+- Webpack
+- Parcel
+
+</td>
+</tr>
+</table>
 
 ### 🔧 Backend Power
-```javascript
-const backendSkills = {
-  runtime: ['Node.js'],
-  frameworks: ['Express.js', 'Fastify'],
-  databases: ['MongoDB', 'PostgreSQL', 'Redis'],
-  authentication: ['JWT', 'OAuth', 'Passport.js'],
-  apis: ['REST', 'GraphQL']
-};
-```
+<table>
+<tr>
+<td>
+
+**⚡ Runtime**
+- Node.js
+
+</td>
+<td>
+
+**🛠️ Frameworks**
+- Express.js
+- Fastify
+
+</td>
+<td>
+
+**🗄️ Databases**
+- MongoDB
+- PostgreSQL
+- Redis
+
+</td>
+<td>
+
+**🔐 Authentication**
+- JWT
+- OAuth
+- Passport.js
+
+</td>
+<td>
+
+**🌐 APIs**
+- REST
+- GraphQL
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -87,14 +146,35 @@ const backendSkills = {
 
 ## 💼 What I'm Working On
 
-```javascript
-const currentFocus = {
-  learning: ['TypeScript', 'Next.js', 'Docker', 'AWS'],
-  building: ['E-commerce Platform', 'Task Management App'],
-  reading: ['Clean Code', 'System Design Interviews'],
-  goals2025: ['Contribute to Open Source', 'Build SaaS Product', 'Master DevOps']
-};
-```
+<table>
+<tr>
+<td width="50%">
+
+### 📚 Currently Learning
+- 🔷 **TypeScript** - Adding type safety to JavaScript
+- ⚡ **Next.js** - Full-stack React framework
+- 🐳 **Docker** - Containerization & deployment
+- ☁️ **AWS** - Cloud computing services
+
+### 🏗️ Building Projects
+- 🛒 **E-commerce Platform** - Full-stack shopping solution
+- ✅ **Task Management App** - Productivity tool with real-time updates
+
+</td>
+<td width="50%">
+
+### 📖 Reading List
+- 📕 **Clean Code** - Writing maintainable code
+- 🏗️ **System Design Interviews** - Scalable architecture
+
+### 🎯 Goals 2025
+- 🤝 **Contribute to Open Source** - Give back to the community
+- 💼 **Build SaaS Product** - Create a profitable software service
+- 🚀 **Master DevOps** - Complete CI/CD expertise
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -140,14 +220,42 @@ const currentFocus = {
 
 ## 🎵 Coding Soundtrack
 
-```javascript
-const codingPlaylist = {
-  focus: ['Lo-fi Hip Hop', 'Ambient Electronic'],
-  debugging: ['Coffee Shop Jazz', 'Rain Sounds'],
-  breakthrough: ['Upbeat Electronic', 'Rock Anthems'],
-  deployment: ['Victory Music', 'Celebration Songs']
-};
-```
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🎯 Focus Mode
+🎧 Lo-fi Hip Hop<br/>
+🌊 Ambient Electronic<br/>
+🎹 Instrumental Beats
+
+</td>
+<td align="center" width="25%">
+
+### 🐛 Debugging
+☕ Coffee Shop Jazz<br/>
+🌧️ Rain Sounds<br/>
+🎼 Calm Instrumentals
+
+</td>
+<td align="center" width="25%">
+
+### 💡 Breakthrough
+⚡ Upbeat Electronic<br/>
+🎸 Rock Anthems<br/>
+🔥 High Energy Beats
+
+</td>
+<td align="center" width="25%">
+
+### 🚀 Deployment
+🎉 Victory Music<br/>
+🎊 Celebration Songs<br/>
+🏆 Success Anthems
+
+</td>
+</tr>
+</table>
 
 ---
 
